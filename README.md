@@ -4,7 +4,9 @@ Jogo clássico contra o computador, feito com HTML, CSS e JavaScript puro.
 
 ## Preview
 
-![Preview do projeto](./assets./pedra-papel-tesoura-mockup-composite.png)
+![Preview do projeto](./assets/pedra-papel-tesoura-mockup-composite.png)
+
+## Conheça o Projeto
 
 ## Funcionalidades
 
@@ -31,8 +33,6 @@ Jogo clássico contra o computador, feito com HTML, CSS e JavaScript puro.
 - `textContent`
 - `classList.add()` e `classList.remove()`
 - Responsividade
-
-##
 
 ## Aprendizado
 
