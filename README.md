@@ -34,6 +34,3 @@ Jogo clássico contra o computador, feito com HTML, CSS e JavaScript puro.
 - `classList.add()` e `classList.remove()`
 - Responsividade
 
-## Aprendizado
-
-Esse projeto foi bom para praticar logica condicional, manipulacao do DOM e organizacao visual responsiva.
